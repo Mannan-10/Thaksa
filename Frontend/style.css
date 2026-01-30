@@ -148,7 +148,7 @@ a {
 }
 
 input[type="text"] {
-    padding: 8px 12px;
+    padding: 8px 22px;
     border-radius: var(--radius-sm);
     border: none;
     background-color: var(--card2);
@@ -181,4 +181,5 @@ input[type="text"] {
 .list-items:hover {
     background-color: var(--card);
     border-radius: var(--radius-sm);
+    color: var(--text);
 }
